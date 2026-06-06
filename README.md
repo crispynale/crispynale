@@ -1,10 +1,6 @@
 <div align="center">
 
-<!-- self-hosted SVG — no external service dependency -->
-<img src="./header.svg" width="100%" alt="Tagir Suleimanov — crispynale"/>
-
-<!-- typing SVG — this one is reliable -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=36&lines=VFX+Artist+%E2%86%92+3D+Animator+%E2%86%92+AI+Engineer;Building+AVARA+%E2%80%94+conversational+AI+avatars;React+%2B+Three.js+%2B+FastAPI+%2B+Azure+AI;Top+10+Red+Bull+Basement+KZ+2026+%F0%9F%8F%86;Kazakh+cultural+storytelling+%C3%97+tech)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=hey%2C+i'm+tagir+%F0%9F%91%8B;VFX+%E2%86%92+3D+%E2%86%92+Motion+%E2%86%92+Game+Dev+%E2%86%92+AI%2FWeb;building+conversational+AI+avatars;Kazakhstan+%F0%9F%87%B0%F0%9F%87%BF+%C2%B7+too+many+projects%2C+zero+regrets)](https://readme-typing-svg.demolab.com)
 
 </div>
 
@@ -20,7 +16,7 @@ I exist somewhere between creative and technical — bad at both, somehow pull t
 **My actual arc:**  
 `VFX` → `3D Animation` → `Motion Design` → `Game Dev` → `AI / Web`
 
-Big interest in **Kazakh cultural storytelling** as a creative theme — untapped territory.
+Big interest in **Kazakh cultural storytelling** as a creative theme — there's a lot of untapped territory there.
 
 <br clear="right"/>
 
@@ -28,43 +24,27 @@ Big interest in **Kazakh cultural storytelling** as a creative theme — untappe
 
 ### 🤖 what i'm building
 
-<table>
-<tr>
-<td width="55%">
-
 **[AVARA](https://avara-ten.vercel.app)** — AI Avatar Platform
 
-Real-time 3D avatar (DAZ Genesis 9) · ARKit blendshape lipsync at **60fps** · Azure GPT-4o · RAG · Speech STT/TTS. Character named Nika who literally moves her face when she talks.
+Real-time 3D avatar (DAZ Genesis 9) · ARKit blendshape lipsync at **60fps** · Azure GPT-4o · RAG knowledge base · Speech STT/TTS. Character named Nika who literally moves her face when she talks. Built **solo** — React + Three.js + FastAPI.
 
-Built **solo** — React + Three.js + FastAPI.
-
-🏆 **Top 10** · Red Bull Basement Kazakhstan 2026  
-🥈 **Top 2** · Decentrathon 5.0 GovTech Track
-
-</td>
-<td width="45%" align="center">
-
-[![AVARA landing](https://img.shields.io/badge/🌐_Live_Demo-avara--ten.vercel.app-58a6ff?style=for-the-badge&labelColor=161b22)](https://avara-ten.vercel.app)
-
-</td>
-</tr>
-</table>
+🏆 **Top 10** · Red Bull Basement Kazakhstan 2026 &nbsp;&nbsp; 🥈 **Top 2** · Decentrathon 5.0 GovTech Track
 
 ---
 
 ### 🛠 stack
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" title="React"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" title="TypeScript"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="36" height="36" title="Three.js"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" title="Next.js"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" title="Python"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36" title="FastAPI"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="36" height="36" title="Blender"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="36" height="36" title="Unity"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" title="Docker"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" title="Git"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="36" height="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="36" height="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="36" height="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36"/>
 </p>
 
 ```
@@ -89,7 +69,7 @@ AI / Local →  Ollama · Gemma · Whisper · ElevenLabs
 
 ---
 
-### 📊 streak
+### 📊 stats
 
 <div align="center">
 
