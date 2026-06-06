@@ -74,7 +74,7 @@ Big interest in **Kazakh cultural storytelling** as a creative theme — there's
 <div align="center">
 
 ```
-currently:  finishing bachelor's · applying to AITU master's · shipping AVARA
+currently:  finishing bachelor's · shipping AVARA
 location:   Kazakhstan
 status:     too many projects, zero regrets
 ```
