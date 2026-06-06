@@ -1,82 +1,138 @@
-<!-- TAGIR SULEIMANOV — crispynale GitHub Profile README -->
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  building things that shouldn't exist yet  ·  KZ → 🌍   ║
-╚══════════════════════════════════════════════════════════╝
-```
+<!-- ANIMATED HEADER via capsule-render -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=hey%2C%20i'm%20tagir%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=building%20at%20the%20intersection%20of%20art%20%26%20code%20%C2%B7%20Kazakhstan%20%F0%9F%87%B0%F0%9F%87%BF&descSize=14&descAlignY=55" width="100%"/>
+
+<!-- TYPING SVG — cycles through roles -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=VFX+Artist+%E2%86%92+3D+Animator+%E2%86%92+AI+Engineer;Building+AVARA+%E2%80%94+conversational+AI+avatars;React+%2B+Three.js+%2B+FastAPI+%2B+Azure+AI;Top+10+Red+Bull+Basement+KZ+2026+%F0%9F%8F%86;Kazakh+cultural+storytelling+%C3%97+tech)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### hey, I'm Tagir 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=crispynale&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&rank_icon=github" width="420"/>
 
-Multimedia Sciences grad from Suleyman Demirel University (Kazakhstan). I exist somewhere between **creative** and **technical** — which means I'm bad at both but somehow pull things off.
+### 🧑‍💻 about me
 
-My actual range: VFX → 3D animation → motion design → character design → game dev → AI/web engineering. I didn't plan it. It just happened.
+Multimedia Sciences grad from **Suleyman Demirel University** (Kazakhstan).  
+I exist somewhere between creative and technical — bad at both, somehow pull things off.
 
----
-
-### what I'm building right now
-
-**[AVARA](https://avara-ten.vercel.app)** — a conversational AI avatar platform
-
-Real-time 3D avatar (DAZ Genesis 9) with full ARKit blendshape lipsync at 60fps, Azure GPT-4o brain, RAG knowledge base, Speech STT/TTS, and a character named Nika who actually moves her face when she talks. Built solo in React + Three.js + FastAPI.
-
-> Top 10 · Red Bull Basement Kazakhstan 2026  
-> Top 2 · Decentrathon 5.0 GovTech Track
-
----
-
-### stack that I actually use
-
-```
-Frontend    →  React · Three.js · TypeScript · Next.js · Tailwind
-Backend     →  FastAPI · Python · Azure AI (GPT-4o · STT/TTS · AI Search)
-3D / VFX    →  Blender · Houdini · After Effects · DaVinci Resolve
-Game Dev    →  Unity · C#
-AI / Local  →  Ollama · Gemma · Whisper · ElevenLabs
-Deploy      →  Vercel · Docker · GitHub Actions
-```
-
----
-
-### things I've shipped outside of code
-
-- 🎬 **Aksak Kulan** — animated film, 1st place at Narxoz University festival
-- 🏛 **Ancient Futures** — parametric yurt for an international design exhibition  
-- 🎥 VFX volunteer work for SDU × Freedom Holding Corp events
-- 🕹 Game dev showreel (Unity, various jam projects)
-- 📐 VR research project: AI avatar in Meta Quest 2 · 25 participants · ITQ M=80.9/105
-
----
-
-### background
-
-I started in Information Systems, transferred to Multimedia Sciences after one semester because pure CS felt like half the picture. Turns out building things is more fun when they can also look good and tell stories.
+**My actual arc:**  
+`VFX` → `3D Animation` → `Motion Design` → `Game Dev` → `AI / Web Engineering`
 
 Big interest in **Kazakh cultural storytelling** as a creative theme — there's a lot of untapped territory there.
 
+<br clear="right"/>
+
 ---
 
-### find me
+### 🤖 what i'm building
 
-[![Behance](https://img.shields.io/badge/Behance-crispynale-1769ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/crispynale)
-[![YouTube](https://img.shields.io/badge/YouTube-crispynale-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@crispynale)
-[![Instagram](https://img.shields.io/badge/Instagram-crispynale-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/crispynale/)
-[![AVARA](https://img.shields.io/badge/AVARA-live%20demo-000000?style=flat-square)](https://avara-ten.vercel.app)
+<table>
+<tr>
+<td width="50%">
+
+**[AVARA](https://avara-ten.vercel.app)** — AI Avatar Platform
+
+Real-time 3D avatar (DAZ Genesis 9) with full ARKit blendshape lipsync at **60fps**, Azure GPT-4o brain, RAG knowledge base, Speech STT/TTS. Character named Nika who literally moves her face when she talks.
+
+Built **solo** — React + Three.js + FastAPI.
+
+🏆 **Top 10** · Red Bull Basement Kazakhstan 2026  
+🥈 **Top 2** · Decentrathon 5.0 GovTech Track
+
+</td>
+<td width="50%">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crispynale&repo=avara&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=3fb950&text_color=8b949e)](https://github.com/crispynale/avara)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠 stack
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" title="React"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" title="TypeScript"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="36" height="36" title="Three.js"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" title="Next.js"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" title="Python"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36" title="FastAPI"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="36" height="36" title="Blender"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="36" height="36" title="Unity"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" title="Docker"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" title="Git"/>&nbsp;
+</p>
+
+```
+Frontend  →  React · Three.js · TypeScript · Next.js · Tailwind
+Backend   →  FastAPI · Python · Azure AI (GPT-4o · STT/TTS · AI Search)
+3D / VFX  →  Blender · Houdini · After Effects · DaVinci Resolve
+Game Dev  →  Unity · C#
+AI / Local →  Ollama · Gemma · Whisper · ElevenLabs
+```
+
+---
+
+### 🏆 shipped beyond code
+
+| | Project | Details |
+|---|---|---|
+| 🎬 | **Aksak Kulan** | Animated film · **1st place** at Narxoz University festival |
+| 🏛 | **Ancient Futures** | Parametric yurt · International design exhibition |
+| 🎥 | **VFX Volunteer** | SDU × Freedom Holding Corp events |
+| 🕹 | **Game Dev Showreel** | Unity · various jam projects |
+| 📐 | **VR Research** | AI avatar in Meta Quest 2 · 25 participants · ITQ M=80.9/105 |
+
+---
+
+### 📊 github streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=crispynale&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 🐍 contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crispynale/crispynale/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crispynale/crispynale/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/crispynale/crispynale/output/github-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+### 🔗 find me
+
+<p align="center">
+<a href="https://www.behance.net/crispynale"><img src="https://img.shields.io/badge/Behance-crispynale-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a>&nbsp;
+<a href="https://www.youtube.com/@crispynale"><img src="https://img.shields.io/badge/YouTube-crispynale-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>&nbsp;
+<a href="https://www.instagram.com/crispynale/"><img src="https://img.shields.io/badge/Instagram-crispynale-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+<a href="https://avara-ten.vercel.app"><img src="https://img.shields.io/badge/AVARA-live%20demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
 <div align="center">
 
 ```
-currently:  finishing bachelor's · shipping AVARA
-location:   Kazakhstan
+currently:  finishing bachelor's  ·  applying to AITU master's  ·  shipping AVARA
+location:   Kazakhstan 🇰🇿
 status:     too many projects, zero regrets
+theme:      Kazakh cultural storytelling × tech
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
 
 </div>
