@@ -8,10 +8,11 @@
 ![](https://img.shields.io/badge/Location-Kazakhstan%20%F0%9F%87%B0%F0%9F%87%BF-3fb950?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Background-VFX%20%2B%20Code-bc8cff?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Status-Too%20many%20projects-ff6b35?style=flat-square&labelColor=0d1117)
+![](https://komarev.com/ghpvc/?username=crispynale&style=flat-square&color=58a6ff&label=profile+views)
 
 </div>
 
-<br/>
+---
 
 ## 🧑‍💻 about me
 
@@ -24,7 +25,7 @@ VFX  →  3D Animation  →  Motion Design  →  Game Dev  →  AI / Web Enginee
 
 Big interest in **Kazakh cultural storytelling** as a creative theme — there's a lot of untapped territory there.
 
-<br/>
+---
 
 ## 🤖 flagship project
 
@@ -53,7 +54,7 @@ Built **solo** — React + Three.js + FastAPI.
 </tr>
 </table>
 
-<br/>
+---
 
 ## 🛠 stack
 
@@ -84,13 +85,13 @@ Built **solo** — React + Three.js + FastAPI.
 
 </details>
 
-<br/>
+---
 
 ## 🏆 shipped beyond code
 
 <table>
 <tr>
-<td align="center" width="80">🎬</td>
+<td align="center" width="60">🎬</td>
 <td><b>Aksak Kulan</b> — animated film · <b>1st place</b> Narxoz University festival</td>
 </tr>
 <tr>
@@ -111,17 +112,27 @@ Built **solo** — React + Three.js + FastAPI.
 </tr>
 </table>
 
-<br/>
+---
 
-## 📈 activity
+## 🏅 github trophies
 
 <div align="center">
 
-[![Tagir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=crispynale&bg_color=0d1117&color=58a6ff&line=3fb950&point=bc8cff&area=true&area_color=58a6ff&hide_border=true&custom_title=last%2031%20days)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=crispynale&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<br/>
+---
+
+## 💬 random dev quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
 
 ## 🔗 find me
 
