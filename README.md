@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=hey%2C+i'm+tagir+%F0%9F%91%8B;VFX+%E2%86%92+3D+%E2%86%92+Motion+%E2%86%92+Game+Dev+%E2%86%92+AI%2FWeb;building+conversational+AI+avatars;Kazakhstan+%F0%9F%87%B0%F0%9F%87%BF+%C2%B7+too+many+projects%2C+zero+regrets)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&height=40&lines=hey%2C+i%27m+tagir+%F0%9F%91%8B;VFX+%E2%86%92+3D+%E2%86%92+Motion+%E2%86%92+Game+Dev+%E2%86%92+AI%2FWeb;building+conversational+AI+avatars;Kazakhstan+%F0%9F%87%B0%F0%9F%87%BF+%C2%B7+too+many+projects%2C+zero+regrets)](https://readme-typing-svg.demolab.com)
 
 <br/>
 
@@ -8,7 +8,6 @@
 ![](https://img.shields.io/badge/Location-Kazakhstan%20%F0%9F%87%B0%F0%9F%87%BF-3fb950?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Background-VFX%20%2B%20Code-bc8cff?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Status-Too%20many%20projects-ff6b35?style=flat-square&labelColor=0d1117)
-![](https://komarev.com/ghpvc/?username=crispynale&style=flat-square&color=58a6ff&label=profile+views)
 
 </div>
 
@@ -111,26 +110,6 @@ Built **solo** — React + Three.js + FastAPI.
 <td><b>VR Research</b> — AI avatar in Meta Quest 2 · 25 participants · ITQ M=80.9/105</td>
 </tr>
 </table>
-
----
-
-## 🏅 github trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=crispynale&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 💬 random dev quote
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
 
 ---
 
